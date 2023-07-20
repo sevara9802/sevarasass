@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+nav{
+    max-width: 1440px;
+    background-color: aquamarine;
+    .container{
+        max-width: 1163px;
+        margin: 0 auto;
+        border: 2px solid red;
+       
+    }
+    .nav{
+       
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: red;
+      
+    }
+}
